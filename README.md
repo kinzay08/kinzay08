@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6F8B,100:2E9E8F&height=150&section=header&text=Kinza%20Sheikh&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=AI%20Engineer%20%26%20Full-Stack%20Developer%20%C2%B7%20Karachi,%20PK&descAlignY=54&descSize=16" width="100%" alt="Kinza Sheikh — AI Engineer & Full-Stack Developer, Karachi, PK" />
+<img src="https://raw.githubusercontent.com/kinzay08/kinzay08/main/assets/header.svg" width="100%" alt="Kinza Sheikh - AI Engineer and Full-Stack Developer, Karachi, PK" />
 
 <p align="center">
   <a href="https://portfolio1-rho-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>

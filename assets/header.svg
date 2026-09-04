@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Kinza Sheikh — AI Engineer and Full-Stack Developer, Karachi, PK">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1F6F8B"/>
+      <stop offset="100%" stop-color="#2E9E8F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- trailing wave, sits behind for depth -->
+  <path fill="url(#g)" opacity="0.35"
+        d="M0 0 H1200 V124 C1100 104, 1000 104, 900 122 C800 140, 700 140, 600 122 C500 104, 400 104, 300 122 C200 140, 100 140, 0 122 Z"/>
+
+  <!-- primary block -->
+  <path fill="url(#g)"
+        d="M0 0 H1200 V112 C1100 140, 1000 140, 900 122 C800 104, 700 104, 600 122 C500 140, 400 140, 300 122 C200 104, 100 104, 0 122 Z"/>
+
+  <text x="600" y="62" text-anchor="middle"
+        font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="700" fill="#ffffff" letter-spacing="0.5">Kinza Sheikh</text>
+
+  <text x="600" y="93" text-anchor="middle"
+        font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="17" font-weight="400" fill="#E3F2EE" letter-spacing="0.4">AI Engineer &amp; Full-Stack Developer &#183; Karachi, PK</text>
+</svg>
